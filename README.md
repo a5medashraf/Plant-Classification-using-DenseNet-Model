@@ -16,7 +16,7 @@ A Binary Classification of Plants Images
 3. **Balancing Classes:**
    The dataset is balanced by ensuring equal representation of each class.
 
-4. **Model Architecture:** \n
+4. **Model Architecture:** \br
 A pre-trained DenseNet-121 model is adapted by replacing the classifier with a custom fully connected layer.
 The final layer uses a sigmoid activation function.
 
