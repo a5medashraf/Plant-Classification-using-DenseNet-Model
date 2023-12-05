@@ -3,7 +3,7 @@
 ## Introduction
 A Binary Classification of Plants Images
 
-
+The [Data and NoteBook](https://www.kaggle.com/code/a5medashraf/plant-classification-using-densenet-model)
 
 ## Methodology
 
@@ -16,16 +16,16 @@ A Binary Classification of Plants Images
 3. **Balancing Classes:**
    The dataset is balanced by ensuring equal representation of each class.
 
-4. **Model Architecture:** \br
+4. **Model Architecture:** 
 A pre-trained DenseNet-121 model is adapted by replacing the classifier with a custom fully connected layer.
 The final layer uses a sigmoid activation function.
 
 5. **Main Training Loop:**
 The model is trained using:
 
-. Batch_Size = 16
-. epochs = 30
-. optimizer = Stochastic Gradient Descent (learning rate=0.001 , momentum=0.9)
+- Batch_Size = 16
+* epochs = 30
++ optimizer = Stochastic Gradient Descent (learning rate=0.001 , momentum=0.9)
 
 
 7. **Model Evaluation*
