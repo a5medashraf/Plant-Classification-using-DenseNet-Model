@@ -2,6 +2,7 @@
  
 ## Introduction
 A Binary Classification of Plants Images
+<img src="https://github.com/a5medashraf/Plant-Classification-using-DenseNet-Model/assets/72763763/90a1c928-ed6e-4fb7-aef8-e51f5a6ebd09" width="250" height="250">
 
 The [Data and NoteBook](https://www.kaggle.com/code/a5medashraf/plant-classification-using-densenet-model)
 
@@ -28,7 +29,7 @@ The model is trained using:
 + optimizer = Stochastic Gradient Descent (learning rate=0.001 , momentum=0.9)
 
 
-7. **Model Evaluation*
+7. **Model Evaluation:**
 The best model state is saved based on its performance on the validation set.
 Early stopping is implemented based on patience = 6.
 
