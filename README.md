@@ -16,7 +16,7 @@ A Binary Classification of Plants Images
 3. **Balancing Classes:**
    The dataset is balanced by ensuring equal representation of each class.
 
-4. **Model Architecture:**
+4. **Model Architecture:** \n
 A pre-trained DenseNet-121 model is adapted by replacing the classifier with a custom fully connected layer.
 The final layer uses a sigmoid activation function.
 
@@ -28,7 +28,7 @@ The model is trained using:
 . optimizer = Stochastic Gradient Descent (learning rate=0.001 , momentum=0.9)
 
 
-7. **Model Evaluation and Saving:**
+7. **Model Evaluation*
 The best model state is saved based on its performance on the validation set.
 Early stopping is implemented based on patience = 6.
 
