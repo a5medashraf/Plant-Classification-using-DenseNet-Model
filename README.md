@@ -3,7 +3,7 @@
 ## Introduction
 A Binary Classification of Plants Images
 
-<img src="https://github.com/a5medashraf/Plant-Classification-using-DenseNet-Model/assets/72763763/90a1c928-ed6e-4fb7-aef8-e51f5a6ebd09" width="250" height="750">
+<img src="https://github.com/a5medashraf/Plant-Classification-using-DenseNet-Model/assets/72763763/90a1c928-ed6e-4fb7-aef8-e51f5a6ebd09" width="250" height="950">
 
 The [Data and NoteBook](https://www.kaggle.com/code/a5medashraf/plant-classification-using-densenet-model)
 
