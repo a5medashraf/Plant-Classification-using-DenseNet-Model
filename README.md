@@ -1,5 +1,5 @@
 # Plant-Classification-using-DenseNet-Model
- 
+  
 ## Introduction
 A Binary Classification of Plants Images
 
